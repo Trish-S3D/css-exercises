@@ -12,3 +12,8 @@ p {
     font-size: 24px;
 }
 
+#second-id {
+    background-color: rgb(96, 235, 96);
+    font-size: 24px;
+    font-weight: bold;
+}
